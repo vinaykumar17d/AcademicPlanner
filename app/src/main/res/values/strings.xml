@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Academic Planner</string>
+    <string-array name="Spinner_items">
+        <item>Student</item>
+        <item>Admin</item>
+    </string-array>
+</resources>
